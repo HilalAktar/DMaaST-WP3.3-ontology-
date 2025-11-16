@@ -1,0 +1,15 @@
+id,name,class,usecase
+JPB_SUPPLIER,JPB Spring supplier,Supplier,JPB
+JPB_EXTLOG_S2W,JPB Ext. Logistics S2W,ExternalLogistics,JPB
+JPB_WAREHOUSE,JPB Spring inventory,Warehouse,JPB
+JPB_INTLOG_W2P,JPB Int. Logistics W2P,InternalLogistics,JPB
+JPB_PRODUCTION,JPB Production,Production,JPB
+JPB_EXTLOG_SALE,JPB Ext. Logistics Sale,ExternalLogistics,JPB
+JPB_CUSTOMER,JPB Customers,Customer,JPB
+KAM_SUPPLIER,KAM Suppliers,Supplier,KAM
+KAM_EXTLOG_S2W,KAM Ext. Logistics S2W,ExternalLogistics,KAM
+KAM_PCB_WH,KAM PCB Warehouse,Warehouse,KAM
+KAM_INTLOG_W2PCB,KAM Int. Logistics W2PCB,InternalLogistics,KAM
+KAM_PCB_PROD,KAM PCB Production,Production,KAM
+KAM_EXTLOG_SALE,KAM Ext. Logistics Sale,ExternalLogistics,KAM
+KAM_CUSTOMER,KAM Customers,Customer,KAM
