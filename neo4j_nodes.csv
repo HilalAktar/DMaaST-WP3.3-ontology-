@@ -1,0 +1,102 @@
+id,name,uri,category
+n1,Place,http://schema.org/Place,Class
+n2,Observation,http://www.w3.org/ns/ssn/Observation,Class
+n3,Business Object,https://dmast.eu/vc6#BusinessObject,Class
+n4,Customer,https://dmast.eu/vc6#Customer,Class
+n5,Customer Order,https://dmast.eu/vc6#CustomerOrder,Class
+n6,Customer Service,https://dmast.eu/vc6#CustomerService,Class
+n7,CustomersLayer,https://dmast.eu/vc6#CustomersLayer,Class
+n8,Defective Product,https://dmast.eu/vc6#DefectiveProduct,Class
+n9,Energy Observation,https://dmast.eu/vc6#EnergyObservation,Class
+n10,Energy Storage,https://dmast.eu/vc6#EnergyStorage,Class
+n11,Energy Tariff,https://dmast.eu/vc6#EnergyTariff,Class
+n12,Equipment Observation,https://dmast.eu/vc6#EquipmentObservation,Class
+n13,External Logistics,https://dmast.eu/vc6#ExternalLogistics,Class
+n14,ExternalLogisticsLayer,https://dmast.eu/vc6#ExternalLogisticsLayer,Class
+n15,Internal Logistics,https://dmast.eu/vc6#InternalLogistics,Class
+n16,InternalLogisticsLayer,https://dmast.eu/vc6#InternalLogisticsLayer,Class
+n17,Labour Observation,https://dmast.eu/vc6#LabourObservation,Class
+n18,Value-Chain Layer,https://dmast.eu/vc6#Layer,Class
+n19,Logistics Operation,https://dmast.eu/vc6#LogisticsOperation,Class
+n20,Observation,https://dmast.eu/vc6#Observation,Class
+n21,Order,https://dmast.eu/vc6#Order,Class
+n22,Organization,https://dmast.eu/vc6#Organization,Class
+n23,Part (Component),https://dmast.eu/vc6#Part,Class
+n24,Process,https://dmast.eu/vc6#Process,Class
+n25,Process Step,https://dmast.eu/vc6#ProcessStep,Class
+n26,Product,https://dmast.eu/vc6#Product,Class
+n27,Production (Black-Box),https://dmast.eu/vc6#Production,Class
+n28,ProductionLayer,https://dmast.eu/vc6#ProductionLayer,Class
+n29,Production Loss,https://dmast.eu/vc6#ProductionLoss,Class
+n30,Quality Assurance,https://dmast.eu/vc6#QualityAssurance,Class
+n31,Return,https://dmast.eu/vc6#Return,Class
+n32,Stock Item,https://dmast.eu/vc6#Stock,Class
+n33,Supplier,https://dmast.eu/vc6#Supplier,Class
+n34,Supplier Order,https://dmast.eu/vc6#SupplierOrder,Class
+n35,SuppliersLayer,https://dmast.eu/vc6#SuppliersLayer,Class
+n36,Transport Mode,https://dmast.eu/vc6#TransportMode,Class
+n37,Warehouse,https://dmast.eu/vc6#Warehouse,Class
+n38,WarehouseLayer,https://dmast.eu/vc6#WarehouseLayer,Class
+n39,Warehouse Location,https://dmast.eu/vc6#WarehouseLocation,Class
+n40,belongs to layer,https://dmast.eu/vc6#belongsToLayer,Property
+n41,capacity,https://dmast.eu/vc6#capacity,Property
+n42,condition,https://dmast.eu/vc6#condition,Property
+n43,defective rate,https://dmast.eu/vc6#defectiveRate,Property
+n44,delivers to,https://dmast.eu/vc6#deliversTo,Property
+n45,delivery time,https://dmast.eu/vc6#deliveryTime,Property
+n46,departure time,https://dmast.eu/vc6#departureTime,Property
+n47,dimension,https://dmast.eu/vc6#dimension,Property
+n48,equipment downtime (h),https://dmast.eu/vc6#downtimeHours,Property
+n49,end date,https://dmast.eu/vc6#endDate,Property
+n50,energy tariff,https://dmast.eu/vc6#energyTariff,Property
+n51,energy consumption,https://dmast.eu/vc6#energyUse,Property
+n52,expected delivery time,https://dmast.eu/vc6#expectedTime,Property
+n53,expiration date,https://dmast.eu/vc6#expirationDate,Property
+n54,feeds (warehouse → production),https://dmast.eu/vc6#feeds,Property
+n55,fulfills (product → customer order),https://dmast.eu/vc6#fulfills,Property
+n56,handles return,https://dmast.eu/vc6#handlesReturn,Property
+n57,has BOM item,https://dmast.eu/vc6#hasBOMItem,Property
+n58,has energy storage,https://dmast.eu/vc6#hasEnergyStorage,Property
+n59,has energy tariff,https://dmast.eu/vc6#hasEnergyTariff,Property
+n60,has loss,https://dmast.eu/vc6#hasLoss,Property
+n61,has QA,https://dmast.eu/vc6#hasQA,Property
+n62,has stock item,https://dmast.eu/vc6#hasStockItem,Property
+n63,headcount,https://dmast.eu/vc6#headcount,Property
+n64,id,https://dmast.eu/vc6#id,Property
+n65,inspection cost,https://dmast.eu/vc6#inspectionCost,Property
+n66,is manufactured from,https://dmast.eu/vc6#isManufacturedFrom,Property
+n67,labour hours,https://dmast.eu/vc6#labourHours,Property
+n68,located in,https://dmast.eu/vc6#locatedIn,Property
+n69,location (text),https://dmast.eu/vc6#locationTxt,Property
+n70,loss (kg),https://dmast.eu/vc6#lossKg,Property
+n71,loss reason,https://dmast.eu/vc6#lossReason,Property
+n72,maintenance cost,https://dmast.eu/vc6#maintenanceCost,Property
+n73,name,https://dmast.eu/vc6#name,Property
+n74,observed by (energy → production),https://dmast.eu/vc6#observedBy,Property
+n75,observes production,https://dmast.eu/vc6#observesProduction,Property
+n76,ordered by,https://dmast.eu/vc6#orderedBy,Property
+n77,ordered from,https://dmast.eu/vc6#orderedFrom,Property
+n78,orders,https://dmast.eu/vc6#orders,Property
+n79,placed at,https://dmast.eu/vc6#placedAt,Property
+n80,produces,https://dmast.eu/vc6#produces,Property
+n81,quantity,https://dmast.eu/vc6#quantity,Property
+n82,relates to order,https://dmast.eu/vc6#relatesToOrder,Property
+n83,renewable share,https://dmast.eu/vc6#renewableShare,Property
+n84,renewable share (%),https://dmast.eu/vc6#renewableSharePct,Property
+n85,return reason,https://dmast.eu/vc6#returnReason,Property
+n86,revenue,https://dmast.eu/vc6#revenue,Property
+n87,rework count,https://dmast.eu/vc6#reworkCount,Property
+n88,route,https://dmast.eu/vc6#route,Property
+n89,customer satisfaction score,https://dmast.eu/vc6#satisfactionScore,Property
+n90,start date,https://dmast.eu/vc6#startDate,Property
+n91,status,https://dmast.eu/vc6#status,Property
+n92,stocks product,https://dmast.eu/vc6#stocksProduct,Property
+n93,storage capacity (kWh),https://dmast.eu/vc6#storageCapacityKWh,Property
+n94,support cost,https://dmast.eu/vc6#supportCost,Property
+n95,tariff (EUR/kWh),https://dmast.eu/vc6#tariffEURperKWh,Property
+n96,transports,https://dmast.eu/vc6#transports,Property
+n97,unit price,https://dmast.eu/vc6#unitPrice,Property
+n98,equipment uptime (h),https://dmast.eu/vc6#uptimeHours,Property
+n99,uses transport mode,https://dmast.eu/vc6#usesTransportMode,Property
+n100,waste,https://dmast.eu/vc6#waste,Property
+n101,weight,https://dmast.eu/vc6#weight,Property
